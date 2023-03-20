@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<title> Resume </title>
+ 
+
+<html>
+
+  <body style="background-color:lightblue">
+  
+  
+
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/335956847_2462182163983334_7165404642721545380_n.jpg?stp=cp0_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=aee45a&_nc_ohc=NvtcGeXZYBcAX97CZqC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTjJvMCk39knIIcAxWKjD9RevDXaMmApm0xgO7IDJaaTA&oe=643B42CA" alt="img not available <^.^>" width="170" height="170" align="right">  
+  
+  <h1 style="text-align:center;font-weight:bolder;text-align:left;font-size:35">
+  Nathaniel L. Nieva 
+  </h1>
+  <h3>
+  Aragon Compound Brgy, 
+<br> 
+Naga, 4400, Camarines Sur <br>
+Region V, Philippines <br>
+E-mail Address: nathaniel.nieva@unc.edu.ph <br>
+Cell. No. : (+63)9686434525 <br>
+Specialization: Back-End Development
+
+  </h3>   
+
+  <h1 style="font-weight:bolder;color:red">
+  <br>
+  <u>PERSONAL DATA:</u>
+  </h1>
+  <h3>
+  Date of Birth : February 12, 2005 <br>
+Place of Birth : Sipocot District Hospital, Camarines Sur <br>
+Age : 18 <br>
+Gender : Male <br>
+Status : Single <br>
+Citizenship : Filipino <br>
+Father’s Name : Ronaldo L. Nieva <br>
+Mother’s Name : Lourdes L. Nieva <br>
+Language Spoken : Bicol, Tagalog, English <br>
+  </h3>
+
+
+  <h1 style="font-weight:bolder;color:blue">
+  <br>
+  <u>EDUCATIONAL ATTAINMENT:</u>
+  </h1>
+  <h3>
+  Secondary : 2021-2023
+University of Nueva Caceres
+Naga City
+<br> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 2017-2021 
+San Rafael National High School
+Tigaon Camarines Sur <br>
+Primary : 2011-2017
+Sipocot South Central School
+Sipocot Camarines Sur <br>
+  </h3>
+
+
+
+
+  <h1 style="font-weight:bolder;color:green">
+  <br>
+  <u>SEMINARS/TRAININGS ATTENDED:</u>
+  </h1>
+  <h3>
+Feb 14 2023 : Why a Blockchain career is in demand & how we can help you
+start one
+MetaCrafters <br>
+Feb 23 - Current : Solana: Beginner Course
+MetaCrafters <br>
+Feb 23 - Current : Solidity: Beginner Course
+MetaCrafters <br>
+Feb 23 - Current : Solidity: Intermediate Course
+MetaCrafters <br>
+
+  </h3>
+
+
+
+  <h1 style="font-weight:bolder;color:purple">
+  <br>
+  <u>ACHIEVEMENTS and RECOGNITION:</u>
+  </h1>
+
+  <h3>
+Video Game : Title: Fight for the Golden Orb <br>
+Development Language: C <br>
+Game Engine: MUGEN Engine <br> <br>
+Javascript : Javascript Essentials <br>
+Essentials Cisco Networking Academy <br>
+
+  </h3>
+
+
+  <h1 style="font-weight:bolder;color:orange">
+  <br>
+  <u>COMPUTER PROGRAMMING:</u>
+  </h1>
+
+  <h3>
+C++ <br>
+C <br>
+Javascript <br>
+Solana <br>
+Flow <br>
+HTML <br>
+CSS <br>
+  </h3>
+
+
+
+  <h1 style="font-weight:bolder;color:darkblue">
+  <br>
+  <u>COMPUTER SKILLS:</u>
+  </h1>
+
+
+  <h3>
+Graphic Design/Arts <br>
+Computer Programming <br>
+Basic Computer Troubleshooting <br>
+Word Processing <br>
+Computer Proficiency <br>
+
+  </h3>
+
+
+  <h1 style="font-weight:bolder;color:darkred">
+  <br>
+  <u>CHARACTER REFERENCE:</u>
+  </h1>
+ 
+  <h3>
+Nobelle V. Felizardo-Zantua <br>
+09594603870 <br>
+nobelle.felizardo@unc.edu.ph <br>
+  </h3>
+
+
+  </body>
+
+</html>
